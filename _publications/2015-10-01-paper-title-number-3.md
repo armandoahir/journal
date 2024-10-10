@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "-"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+#category: manuscripts
+#permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '-'
 date: 2024-10-10
 venue: '-'
