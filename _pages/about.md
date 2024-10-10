@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 This page will be active in 2025.
