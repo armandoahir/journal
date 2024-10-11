@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV-eng.pdf
 author_profile: true
 redirect_from:
-  - /CV/
+  - files/CV-eng.pdf/
   
 ---
 
