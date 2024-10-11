@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Weapon Logs"
+title                    : "Weapon journal"
 title_separator          : "-"
 name                     : &name "Armando Ahir"
 description              : &description "Software engineer"
-url                      : https://armandoahir.github.io/logs # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://armandoahir.github.io/journal # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
