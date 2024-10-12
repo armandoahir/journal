@@ -6,7 +6,7 @@ tags:
  - Linux
 ---
 
-![](percorso/della/rice.jpg)
+![](img/rice.jpg)
 
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
@@ -23,13 +23,12 @@ Here are some of the features I implemented:
 
 To incorporate a transparency toggle, I used the following code:
 
-'''javascript
-local toggle_transparency = function()
-    bg_transparent = not bg_transparent
-    vim.g.nord_disable_background = bg_transparent
-    vim.cmd [[colorscheme nord]]
-end
-vim.keymap.set('n', '<leader>bg', toggle_transparency, {noremap = true, silent = true})
+    local toggle_transparency = function()
+        bg_transparent = not bg_transparent
+        vim.g.nord_disable_background = bg_transparent
+        vim.cmd [[colorscheme nord]]
+    end
+    vim.keymap.set('n', '<leader>bg', toggle_transparency, {noremap = true, silent = true})
 
 
 ### Folder Organization
