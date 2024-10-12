@@ -39,7 +39,7 @@ The nvim folder contains two subfolders: **core** and **plugins**.
 
 **Plugins Folder**: This houses Lua scripts for:
 
-- **Autocompletion**: Provides suggestions for code completion as you type, improving coding efficiency. It's disabled when not programming.
+- **[Autocompletion](https://github.com/L3MON4D3/LuaSnip.git)**: Provides suggestions for code completion as you type, improving coding efficiency. It's disabled when not programming.
 
 - **Bufferline**: Displays open buffers as tabs at the top of the Neovim window, making navigation between files easier.
 
