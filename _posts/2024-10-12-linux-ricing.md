@@ -1,12 +1,13 @@
 ---
 title: 'Friday Night Ricing'
+subtitle:'Neovim customization'
 date: 2024-10-12
-permalink: /_posts/2024/
+permalink: /2024/friday-night-ricing
 tags:
  - Linux
 ---
 
-![](/home/arma/Documents/personal/weaponjournal/assets/img/rice.jpg)
+![](~/home/arma/Documents/personal/weaponjournal/assets/img/rice.jpg)
 
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
@@ -35,24 +36,24 @@ To incorporate a transparency toggle, I used the following code:
 
 The nvim folder contains two subfolders: core and plugins.
 
-Core Folder: This contains my personalized key mappings to enhance navigation ergonomics within the environment. Additionally, the core folder has an options.lua file, which is a standard IDE configuration inspired by an online Neovim setup.
+**Core Folder**: This contains my personalized key mappings to enhance navigation ergonomics within the environment. Additionally, the core folder has an options.lua file, which is a standard IDE configuration inspired by an online Neovim setup.
 
-Plugins Folder: This houses Lua scripts for:
+**Plugins Folder**: This houses Lua scripts for:
 
-Autocompletion: Provides suggestions for code completion as you type, improving coding efficiency. It's disabled when not programming.
+- **Autocompletion**: Provides suggestions for code completion as you type, improving coding efficiency. It's disabled when not programming.
 
-Bufferline: Displays open buffers as tabs at the top of the Neovim window, making navigation between files easier.
+- **Bufferline**: Displays open buffers as tabs at the top of the Neovim window, making navigation between files easier.
 
-Color Theme: Allows for customization of Neovim's appearance, enhancing visual aesthetics.
+- **Color Theme**: Allows for customization of Neovim's appearance, enhancing visual aesthetics.
 
-Comment: Adds functionality for easily commenting and uncommenting lines of code.
+- **Comment**: Adds functionality for easily commenting and uncommenting lines of code.
 
-Indent Blankline: Displays indentation guides, helping to visualize the structure of the code.
+- **Indent Blankline**: Displays indentation guides, helping to visualize the structure of the code.
 
-LSP (Language Server Protocol): Integrates language servers to provide features like autocompletion, error checking, and code navigation.
+- **LSP (Language Server Protocol)**: Integrates language servers to provide features like autocompletion, error checking, and code navigation.
 
-Neo-tree: A file explorer plugin that provides a tree view of your files, making it easy to navigate your project.
+- **Neo-tree**: A file explorer plugin that provides a tree view of your files, making it easy to navigate your project.
 
-Telescope: A powerful fuzzy finder for Neovim that allows you to search through files, buffers, and more efficiently.
+- **Telescope**: A powerful fuzzy finder for Neovim that allows you to search through files, buffers, and more efficiently.
 
-Treesitter: A syntax highlighting and code parsing library that enhances code understanding and navigation.
+- **Treesitter**: A syntax highlighting and code parsing library that enhances code understanding and navigation.
