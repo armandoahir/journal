@@ -37,6 +37,8 @@ The nvim folder contains two subfolders: **core** and **plugins**.
 
 **Plugins Folder**: This houses Lua scripts for:
 
+![](https://github.com/user-attachments/assets/3eff5553-a305-4066-98ac-3c3ab0fee9e4)
+
 - **[Autocompletion](https://github.com/L3MON4D3/LuaSnip.git)**: Provides suggestions for code completion as you type, improving coding efficiency. It's disabled when not programming.
 
 - **[Bufferline](https://github.com/nvim-tree/nvim-web-devicons.git)**: Displays open buffers as tabs at the top of the Neovim window, making navigation between files easier.
@@ -55,4 +57,7 @@ The nvim folder contains two subfolders: **core** and **plugins**.
 
 - **[Treesitter](https://github.com/tree-sitter/tree-sitter.git)**: A syntax highlighting and code parsing library that enhances code understanding and navigation.
 
+<p align="center">
+    <img src = "https://github.com/user-attachments/assets/2b99136d-1765-41a9-a60b-0e9a38699f60"/>
+</p>
 
