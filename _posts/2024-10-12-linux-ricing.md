@@ -33,6 +33,8 @@ To incorporate a transparency toggle, I used the following code:
 
 The nvim folder contains two subfolders: **core** and **plugins**.
 
+![](/assets/img/screen-plugins.png)
+
 **Core Folder**: This contains my personalized key mappings to enhance navigation ergonomics within the environment. Additionally, the core folder has an options.lua file, which is a standard IDE configuration inspired by an online Neovim setup.
 
 **Plugins Folder**: This houses Lua scripts for:
