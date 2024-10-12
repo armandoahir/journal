@@ -6,7 +6,9 @@ tags:
  - Linux   
 ---
 
-  ![rice](https://github.com/user-attachments/assets/0b5913f3-713e-4ecc-92c5-c0835234dceb)
+<p align="center">
+    <img src = "https://github.com/user-attachments/assets/0b5913f3-713e-4ecc-92c5-c0835234dceb"/>
+</p>
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
 
