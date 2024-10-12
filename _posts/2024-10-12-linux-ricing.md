@@ -1,13 +1,12 @@
 ---
-title: 'Friday Night Ricing'
-subtitle:'Neovim customization'
+title: 'Friday Night Vim Ricing'
 date: 2024-10-12
 permalink: /2024/friday-night-ricing
 tags:
  - Linux
 ---
 
-![Rice Screenshot](../assets/img/rice.jpg)
+![](../assets/img/rice.jpeg)
 
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
