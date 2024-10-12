@@ -18,9 +18,6 @@ The goal is to organize Neovim like any modern programming environment while kee
 
 ### Added Features
 
-Here are some of the features I implemented:
-
-- Added a theme sourced from GitHub.
 
 To incorporate a transparency toggle, I used the following code:
 
@@ -34,7 +31,7 @@ To incorporate a transparency toggle, I used the following code:
 
 ### Folder Organization
 
-The nvim folder contains two subfolders: core and plugins.
+The nvim folder contains two subfolders: **core** and **plugins**.
 
 **Core Folder**: This contains my personalized key mappings to enhance navigation ergonomics within the environment. Additionally, the core folder has an options.lua file, which is a standard IDE configuration inspired by an online Neovim setup.
 
@@ -57,3 +54,5 @@ The nvim folder contains two subfolders: core and plugins.
 - **Telescope**: A powerful fuzzy finder for Neovim that allows you to search through files, buffers, and more efficiently.
 
 - **Treesitter**: A syntax highlighting and code parsing library that enhances code understanding and navigation.
+
+
