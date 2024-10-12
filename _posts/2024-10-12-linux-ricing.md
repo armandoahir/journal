@@ -23,7 +23,7 @@ Here are some of the features I implemented:
 
 To incorporate a transparency toggle, I used the following code:
 
-```lua
+'''javascript
 local toggle_transparency = function()
     bg_transparent = not bg_transparent
     vim.g.nord_disable_background = bg_transparent
@@ -31,7 +31,8 @@ local toggle_transparency = function()
 end
 vim.keymap.set('n', '<leader>bg', toggle_transparency, {noremap = true, silent = true})
 
-Folder Organization
+
+### Folder Organization
 
 The nvim folder contains two subfolders: core and plugins.
 
