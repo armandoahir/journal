@@ -12,9 +12,9 @@ tags:
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
 
-This repository encouraged me to do everything in Lua, so I spent about 30-60 minutes getting familiar with the language. I aimed to promote modular programming, focusing on future reuse.
+This repository encouraged me to do everything in Lua, so I spent about 30-60 minutes [getting familiar with the language]("https://learnxinyminutes.com/docs/lua/"). I aimed to promote modular programming, focusing on future reuse.
 
-The goal is to organize Neovim like any modern programming environment while keeping the Vim commands (Vim motions).
+The goal is to organize Neovim like any modern programming environment while keeping Vim concepts alive.
 
 ### Added Features
 
