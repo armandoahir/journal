@@ -1,5 +1,5 @@
 ---
-title: Friday Night Vim Ricing
+title: 'Friday Night Vim Ricing'
 subtitle: nvim customization
 date: 2024-10-12
 permalink: /2024/friday-night-ricing
