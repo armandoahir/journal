@@ -1,7 +1,7 @@
 ---
 title: 'Friday Night Ricing'
 date: 2024-10-12
-permalink: /posts/2024/10/blog-post/
+permalink: /_posts/2024/
 tags:
  - Linux
 ---
