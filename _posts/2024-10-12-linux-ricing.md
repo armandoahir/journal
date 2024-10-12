@@ -6,8 +6,6 @@ tags:
  - Linux
 ---
 
-![](/assets/img/rice.gif)
-
 
 This Friday night, I decided to set up Neovim to make it more programming-oriented. I started by cloning the recommended repository for customization: ["nvim-lua/kickstart.nvim"](https://github.com/nvim-lua/kickstart.nvim).
 
