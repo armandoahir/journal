@@ -4,7 +4,7 @@
 .staticman-comments form {
   margin: 0 0 5px 0;
   padding: 1em;
-  background-color: #f2f3f3;
+  background-color: #2f3063;  /*#f2f3f3*/
 }
 .staticman-comments form p {
   margin-bottom: 2.5px;
@@ -20,7 +20,7 @@
   box-sizing: border-box;
 }
 .staticman-comments label {
-  display: block;
+  display: block; 
   margin-bottom: 0.25em;
   color: #494e52;
   cursor: pointer;
@@ -36,7 +36,7 @@
   width: 100%;
   padding: 0.25em;
   margin-bottom: 0.5em;
-  color: #494e52;
+  color: #FFFFFF; /*494e52*/
   background-color: #fff;
   border: #f2f3f3;
   border-radius: 4px;
