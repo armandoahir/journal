@@ -29,7 +29,7 @@ To incorporate a transparency toggle, I used the following code:
     vim.keymap.set('n', '<leader>bg', toggle_transparency, {noremap = true, silent = true})
 
 
-### Folder Organization
+### Folders Organization
 
 The nvim folder contains two subfolders: **core** and **plugins**.
 
@@ -48,7 +48,7 @@ The nvim folder contains two subfolders: **core** and **plugins**.
 - **Color Theme**: Allows for customization of Neovim's appearance, enhancing visual aesthetics.
 
 - **[Comment](https://github.com/numToStr/Comment.nvim.git)**: Adds functionality for easily commenting and uncommenting lines of code.
-
+ 
 - **[Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim.git)**: Displays indentation guides, helping to visualize the structure of the code.
 
 - **[LSP (Language Server Protocol)](https://github.com/williamboman/mason.nvim.git)**: Integrates language servers to provide features like autocompletion, error checking, and code navigation.
