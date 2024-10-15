@@ -1,3 +1,6 @@
+
+Rust - Log 1
+
 Signed integer: can be represented both positive and negative integer
 Unsigned integer: always positive integer
 
