@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Files
-subtitle: Section in coming
+subtitle: Section in coming.
 ---
