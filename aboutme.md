@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Section in coming
+subtitle: Section in coming.
 ---
 
 
