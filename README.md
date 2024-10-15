@@ -1,7 +1,6 @@
 # Weapon Journal
 
-> By [Armando Ahir](armandoahir.github.io/journal); [Demo](https://beautifuljekyll.com/)
-
+> By [Armando Ahir](githubb.com/armandoahir); 
 
 These are the basic YAML parameters that you are most likely to use on most pages.
 
